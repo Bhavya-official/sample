@@ -1,0 +1,53 @@
+body{
+	font-family: "cursive";
+}
+#title{
+	background-color: #ff4c68;
+	font-family: 'Secular One', sans-serif;
+	padding:5% 15% 0;
+}
+
+
+h1{
+	font-weight: bold;
+    font-size: 3.5rem;
+	line-height: 1.5 ;
+	color:white;
+	font-family: 'Sansita Swashed', cursive;
+	margin-bottom: 5%;
+}
+.top{
+	font-weight: bold;
+}
+
+.nav-item{
+	padding:0px 10px;
+}
+.navbar{
+	padding:0px 10px ;
+	margin-bottom: 20px;	 
+
+}
+
+#tindog {	
+	font-weight: bolder;
+	color:black;
+	font-size: 2rem;
+    font-family: 'Sansita Swashed', cursive;
+}
+.hi{
+	font-size: 2rem;
+	color:grey;
+}
+.im {
+	margin-top: 12px;
+	width: 60%;
+	transform: rotate(25deg);
+}
+
+h3{
+	color: red;
+}
+.btn{
+	margin:0px 2%;
+}
